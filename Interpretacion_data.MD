@@ -1,7 +1,5 @@
 # Análisis Técnico y Estadístico del Modelo de Regresión Lineal
 
-Este documento presenta una interpretación detallada de los resultados obtenidos en el modelo de regresión lineal simple entrenado para predecir ingresos en función de los años de experiencia laboral.
-
 ## 📈 Imagen 1 – Entrenamiento
 
 ### Interpretación:
