@@ -1,0 +1,7 @@
+MODELO DE REGRESION SIMPLE
+
+Para este modelo se han analizado dos variables del conjunto de datos de préstamos, con el objetivo de comprender cómo la experiencia laboral de una persona influye en sus ingresos. Se ha tomado como variable independiente los años de experiencia laboral (X) y como variable dependiente los ingresos (Y).
+
+El modelo obtenido tiene un coeficiente de correlación (r) de: 0.9425, lo que sugiere una relación positiva moderada entre la experiencia y el nivel de ingresos. Además, el coeficiente de determinación (r²) es de 0.8882, indicando que aproximadamente el 88.8% de la variabilidad en los ingresos puede explicarse por la experiencia laboral.
+
+El error absoluto medio (MAE) calculado es de 11933.12, lo cual representa en promedio una desviación del 13.46% respecto a los ingresos reales. Finalmente, el p-valor asociado al coeficiente de experiencia es de 3.6330e-96, lo que confirma que la variable experiencia tiene un impacto estadísticamente significativo sobre los ingresos.
